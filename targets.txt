@@ -1,0 +1,6 @@
+# AppSecLens target list
+#
+# Only scan applications that you own
+# or have explicit authorization to test.
+
+https://example.com
