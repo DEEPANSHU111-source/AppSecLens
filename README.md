@@ -157,7 +157,7 @@ AppSecLens/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AppSecLens.git
+git clone https://github.com/DEEPANSHU111-source/AppSecLens.git
 cd AppSecLens
 ```
 
